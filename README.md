@@ -1,21 +1,21 @@
 # Oceanus-Underwater-ROV-for-Corrosion-Detection
-Overview
+Overview: 
 Oceanus is an underwater remotely operated vehicle (ROV) designed for the inspection, detection, and maintenance of corrosion or abrasion on submerged equipment and parts. This project integrates advanced machine learning algorithms and sensors to identify signs of wear, enabling predictive maintenance and reducing downtime in marine operations.
 
-Features
+Features: 
 Corrosion Detection: Utilizes machine learning models to analyze surface patterns and identify signs of corrosion or abrasion.
 Real-Time Inspection: Equipped with high-resolution cameras and sensors for detailed underwater monitoring.
 Repair and Maintenance: Includes modular tools for basic underwater repairs.
 Environmentally Adaptable: Built to operate in harsh underwater environments with varying pressures and temperatures.
 Components
-Hardware:
 
+Hardware:
 High-definition camera for video and image analysis.
 Sensors for detecting pH levels, pressure, and material integrity.
-Modular repair arm for small-scale underwater fixes.
+Modular repair arm for small-scale underwater fixes oprated using MATLAB. 
 Battery-powered propulsion system with a long operational duration.
-Software:
 
+Software:
 Machine Learning for corrosion classification.
 Real-time data streaming and visualization dashboard.
 Remote control system for precise navigation and operation.
